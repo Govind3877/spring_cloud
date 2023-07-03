@@ -1,4 +1,4 @@
-# spring_cloud:
+# spring_cloud: Assesment 2
 
 1) Create a Config server which exposes application.properties
 
